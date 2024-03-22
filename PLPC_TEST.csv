@@ -1,2 +1,2 @@
-﻿parent,id,m/z,rt,ccs,adduct,modification
-PC 16:0/18:2,PC 16:0/182+OH,818.5772,6.881316667,254.0609991,HCOO-,+1OH
+﻿parent,id,mz,rt,ccs,adduct,modification
+PC 16:0/18:2,PC 16:0/18:2+OH,818.5772,6.881316667,254.0609991,HCOO-,+1OH
